@@ -1,2 +1,5 @@
 test 1
 this is a simple test
+How to create pull request
+How to merge changes
+how to commit changes
